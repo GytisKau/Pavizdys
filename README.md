@@ -1,2 +1,2 @@
-# Pavizdys
+# Pavyzdys
 Rodau kaip veikia Github
