@@ -14,4 +14,4 @@ Taip pat programuotojaai turi parsisiųsti Visual Studio Code programą
 9. Paspauskite Žalią `Create pull request` mugtuką, parašykite pakeitimo pavadinimą ir vėl paspauskite žalią mygtuką.
 10. Grįžtame į https://github.com/GytisKau/Pavizdys puslapį ir ieškome savo pakeitimo (Jei jį patvirtino kaulakiai, jei ne, parašykit asmeninę žinutę, kad patvirtintų).
 
-
+Daugiau info: https://youtu.be/_NrSWLQsDL4
